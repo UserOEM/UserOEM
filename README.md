@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UserOEM
-- 👀 I’m interested in JS, React
+- 👀 I’m interested in JS, React, Redux
 
 
 <!---
